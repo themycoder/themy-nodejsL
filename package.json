@@ -1,0 +1,27 @@
+{
+  "name": "themylearn1",
+  "version": "1.0.0",
+  "description": "thefirstlesson",
+  "main": "no1.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node no1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themycoder/themy-nodejsL.git"
+  },
+  "keywords": [
+    "themy2301"
+  ],
+  "author": "themy2301",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themycoder/themy-nodejsL/issues"
+  },
+  "homepage": "https://github.com/themycoder/themy-nodejsL#readme"
+}
